@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Une courte description de qui je suis
 
 - 🔭 Actuellement étudiant en cursus double avec Grenoble INP Ensimag/Phelma
 - 🌱 Je suis passionné de systèmes embarqués et de sécurité informatique
